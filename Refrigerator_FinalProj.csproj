@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7A2CFFB1-F281-4CA7-8057-917AEEAC1377}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Refrigerator_FinalProj</RootNamespace>
+    <AssemblyName>Refrigerator_FinalProj</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Backend\Enums\BeverageType.cs" />
+    <Compile Include="Backend\Enums\CheeseType.cs" />
+    <Compile Include="Backend\Enums\Colors.cs" />
+    <Compile Include="Backend\Enums\Enums_Collections.cs" />
+    <Compile Include="Backend\Enums\FruitType.cs" />
+    <Compile Include="Backend\Enums\MeatType.cs" />
+    <Compile Include="Backend\Enums\VegetableType.cs" />
+    <Compile Include="Backend\Enums\Vitamins.cs" />
+    <Compile Include="Backend\Model\Beverage\DairyBeverage\Chocolate.cs" />
+    <Compile Include="Backend\Model\Beverage\DairyBeverage\Coffee.cs" />
+    <Compile Include="Backend\Model\Beverage\DairyBeverage\Milk.cs" />
+    <Compile Include="Backend\Model\Beverage\SweetenedBeverage\Cola.cs" />
+    <Compile Include="Backend\Model\Beverage\SweetenedBeverage\EnergyDrink.cs" />
+    <Compile Include="Backend\Model\Beverage\SweetenedBeverage\FruitPunch.cs" />
+    <Compile Include="Backend\Model\DairyProduct\Cheese\BlueCheese.cs" />
+    <Compile Include="Backend\Model\DairyProduct\Butter.cs" />
+    <Compile Include="Backend\Model\DairyProduct\Cheese\CottageCheese.cs" />
+    <Compile Include="Backend\Model\DairyProduct\Cheese\LabnehCheese.cs" />
+    <Compile Include="Backend\Model\DairyProduct\Cheese\MozzarellaCheese.cs" />
+    <Compile Include="Backend\Model\DairyProduct\Yogurt.cs" />
+    <Compile Include="Backend\Model\FileUtiles.cs" />
+    <Compile Include="Backend\Model\Fruit\Apple.cs" />
+    <Compile Include="Backend\Model\Fruit\Banana.cs" />
+    <Compile Include="Backend\Model\Beverage\Beverage.cs" />
+    <Compile Include="Backend\Model\Meat\Beef.cs" />
+    <Compile Include="Backend\Model\Meat\Chicken.cs" />
+    <Compile Include="Backend\Model\Meat\Lamb.cs" />
+    <Compile Include="Backend\Model\Meat\Pork.cs" />
+    <Compile Include="Backend\Model\ProductsManager.cs" />
+    <Compile Include="Backend\Model\Validator.cs" />
+    <Compile Include="Backend\Model\Vegetable\Carrot.cs" />
+    <Compile Include="Backend\Model\DairyProduct\Cheese\Cheese.cs" />
+    <Compile Include="Backend\Model\Vegetable\Cucumber.cs" />
+    <Compile Include="Backend\Model\DairyProduct\DairyProduct.cs" />
+    <Compile Include="Backend\Model\Fruit\Fruit.cs" />
+    <Compile Include="Backend\Model\Fruit\Grapes.cs" />
+    <Compile Include="Backend\Model\Vegetable\Lettuce.cs" />
+    <Compile Include="Backend\Model\Meat\Meat.cs" />
+    <Compile Include="Backend\Model\Beverage\DairyBeverage\DairyBeverage.cs" />
+    <Compile Include="Backend\Model\Fruit\Orange.cs" />
+    <Compile Include="Backend\Model\Fruit\Peach.cs" />
+    <Compile Include="Backend\Model\Vegetable\Pepper.cs" />
+    <Compile Include="Backend\Model\Product.cs" />
+    <Compile Include="Backend\Model\Beverage\SweetenedBeverage\SweetenedBeverage.cs" />
+    <Compile Include="Backend\Model\Vegetable\Tomato.cs" />
+    <Compile Include="Backend\Model\Vegetable\Vegetable.cs" />
+    <Compile Include="Frontend\Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frontend\Forms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Backend\Model\Motor.cs" />
+    <Compile Include="Frontend\UserControls\Base.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frontend\UserControls\Base.Designer.cs">
+      <DependentUpon>Base.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frontend\UserControls\Beverage\Beverage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frontend\UserControls\Beverage\Beverage.Designer.cs">
+      <DependentUpon>Beverage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frontend\UserControls\DairyProduct\DairyProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frontend\UserControls\DairyProduct\DairyProduct.Designer.cs">
+      <DependentUpon>DairyProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frontend\UserControls\Fruit\Fruit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frontend\UserControls\Fruit\Fruit.Designer.cs">
+      <DependentUpon>Fruit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frontend\UserControls\meats\meat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frontend\UserControls\meats\meat.Designer.cs">
+      <DependentUpon>meat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frontend\UserControls\Vegetable\Vegetable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frontend\UserControls\Vegetable\Vegetable.Designer.cs">
+      <DependentUpon>Vegetable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Backend\Model\Refrigerator.cs" />
+    <Compile Include="Frontend\Forms\RefrigeratorDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frontend\Forms\RefrigeratorDetails.Designer.cs">
+      <DependentUpon>RefrigeratorDetails.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Frontend\Forms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frontend\UserControls\Base.resx">
+      <DependentUpon>Base.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frontend\UserControls\Beverage\Beverage.resx">
+      <DependentUpon>Beverage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frontend\UserControls\DairyProduct\DairyProduct.resx">
+      <DependentUpon>DairyProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frontend\UserControls\Fruit\Fruit.resx">
+      <DependentUpon>Fruit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frontend\UserControls\meats\meat.resx">
+      <DependentUpon>meat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frontend\UserControls\Vegetable\Vegetable.resx">
+      <DependentUpon>Vegetable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frontend\Forms\RefrigeratorDetails.resx">
+      <DependentUpon>RefrigeratorDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\DataSources\Refrigerator_FinalProj.Backend.Model.Product.datasource" />
+    <None Include="Properties\DataSources\Refrigerator_FinalProj.Backend.Model.Tomato.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refriderator-fridge-open-close-1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tomato.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cumem.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pep.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lettuce.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lettuce1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carrotjpg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Beef.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chicken.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lamb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Porkjpg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apple.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grapes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orangejpg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Peach.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueCheese.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\butter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cottage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Labneh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mozzarella.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yogurt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueCheese1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\butter1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cottage1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Labneh1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mozzarella1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yogurt1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chocolate.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coffee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cola.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnergyDrink.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FruitPunch.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Milk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glassWithIce.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

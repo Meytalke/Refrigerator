@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Refrigerator_FinalProj.Backend.Enums.Enums_Collections" Collapsed="true">
+    <Position X="66.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Enums\Enums_Collections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Beverage" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgUIAAIACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Backend\Model\Beverage\Beverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Chocolate" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Beverage\DairyBeverage\Chocolate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Coffee" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Beverage\DairyBeverage\Coffee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.DairyBeverage" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAGEAAEBAAAAAQAAAAAAAAEAAAAAAIQAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Beverage\DairyBeverage\DairyBeverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Milk" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Beverage\DairyBeverage\Milk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Cola" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Beverage\SweetenedBeverage\Cola.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.EnergyDrink" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Beverage\SweetenedBeverage\EnergyDrink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.FruitPunch" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAIAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Backend\Model\Beverage\SweetenedBeverage\FruitPunch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.SweetenedBeverage" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Backend\Model\Beverage\SweetenedBeverage\SweetenedBeverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Butter" Collapsed="true">
+    <Position X="47.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEQAAAAEAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\DairyProduct\Butter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.BlueCheese" Collapsed="true">
+    <Position X="50" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAIAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\DairyProduct\Cheese\BlueCheese.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Cheese" Collapsed="true">
+    <Position X="53.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAA=</HashCode>
+      <FileName>Backend\Model\DairyProduct\Cheese\Cheese.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.CottageCheese" Collapsed="true">
+    <Position X="52.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAABAAAAAAAAAAAAAAAAAIAAAACAAAEAA=</HashCode>
+      <FileName>Backend\Model\DairyProduct\Cheese\CottageCheese.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.LabnehCheese" Collapsed="true">
+    <Position X="54.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Backend\Model\DairyProduct\Cheese\LabnehCheese.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.MozzarellaCheese" Collapsed="true">
+    <Position X="56.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAgAAAAJAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\DairyProduct\Cheese\MozzarellaCheese.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.DairyProduct" Collapsed="true">
+    <Position X="51" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAUAIAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQA=</HashCode>
+      <FileName>Backend\Model\DairyProduct\DairyProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Yogurt" Collapsed="true">
+    <Position X="45.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIgAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\DairyProduct\Yogurt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.FileUtiles" Collapsed="true">
+    <Position X="59.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\FileUtiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Apple" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAE=</HashCode>
+      <FileName>Backend\Model\Fruit\Apple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Banana" Collapsed="true">
+    <Position X="25.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAABAAAAAAAAAAAAAAABAACAAAAAgAAAA=</HashCode>
+      <FileName>Backend\Model\Fruit\Banana.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Fruit" Collapsed="true">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAACABAAAAABAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Fruit\Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Grapes" Collapsed="true">
+    <Position X="27.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAABAAAAACAAAAAgAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Fruit\Grapes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Orange" Collapsed="true">
+    <Position X="29.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAIAAAACAA=</HashCode>
+      <FileName>Backend\Model\Fruit\Orange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Peach" Collapsed="true">
+    <Position X="32" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAABAAAAAAAAAAAAAAABAACAAAAAgAAAA=</HashCode>
+      <FileName>Backend\Model\Fruit\Peach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Beef" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIAAAACAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Meat\Beef.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Chicken" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABAAA=</HashCode>
+      <FileName>Backend\Model\Meat\Chicken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Lamb" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAIAAAAAQAAAAEAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Meat\Lamb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Meat" Collapsed="true">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAIAAAACAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Meat\Meat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Pork" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAACAAggAAAIIAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Meat\Pork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Product" Collapsed="true">
+    <Position X="28.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQDAAAAAQAAgQACAIEQAAQAUGAEAACgAAQAgAQAAgA=</HashCode>
+      <FileName>Backend\Model\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.ProductsManager" Collapsed="true">
+    <Position X="59.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgAAAABCAAAAAAAACAAQAAAAAABAAAAQAAIBCAEABA=</HashCode>
+      <FileName>Backend\Model\ProductsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Validator" Collapsed="true">
+    <Position X="61" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAIAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Backend\Model\Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Carrot" Collapsed="true">
+    <Position X="34.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAA=</HashCode>
+      <FileName>Backend\Model\Vegetable\Carrot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Cucumber" Collapsed="true">
+    <Position X="36.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAACAAAAEgAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Vegetable\Cucumber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Lettuce" Collapsed="true">
+    <Position X="38.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAQAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Vegetable\Lettuce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Pepper" Collapsed="true">
+    <Position X="41" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAQAAAAkAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Vegetable\Pepper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Tomato" Collapsed="true">
+    <Position X="43.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAQgAAAEIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Vegetable\Tomato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Backend.Model.Vegetable" Collapsed="true">
+    <Position X="38.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Backend\Model\Vegetable\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Motor" Collapsed="true">
+    <Position X="66.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAgAAAAAAAAAAAAABAAAgAQAAIAAAQAQEAAAEACA=</HashCode>
+      <FileName>Backend\Model\Motor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Refrigerator" Collapsed="true">
+    <Position X="62.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAUAAAAFwCAAAACoAAAICAABAAgAhUAAAIgABAAA=</HashCode>
+      <FileName>Backend\Model\Refrigerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.fRefrigerator" Collapsed="true">
+    <Position X="61" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IzQAGYGgEWMZEQyDCQCIBKwXpDRJSAICAXEAAImECgk=</HashCode>
+      <FileName>Frontend\Forms\Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.RefrigeratorDetails" Collapsed="true">
+    <Position X="64.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQQShQSAUCYiIBABAQKAHIACAAAEBNQAAgABAAIAoAA=</HashCode>
+      <FileName>Frontend\Forms\RefrigeratorDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Program" Collapsed="true">
+    <Position X="61" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Frontend.UserControls.AllPro" Collapsed="true">
+    <Position X="59.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAIAAgCAABAMAIACEMAASAAgAAAAAABAAAABBAAA=</HashCode>
+      <FileName>Frontend\UserControls\AllPro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Frontend.UserControls.Base" Collapsed="true">
+    <Position X="61" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAQBCBAAAAAAACAAgQiAAIIAAAAAAAAAAAkQGA=</HashCode>
+      <FileName>Frontend\UserControls\Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Frontend.UserControls.Beverage" Collapsed="true">
+    <Position X="62.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBwEgIABZWAAqFcaiFONQgADEBGYFcKIAUkzGaTkQCI=</HashCode>
+      <FileName>Frontend\UserControls\Beverage\Beverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Frontend.UserControls.DairyProduct.DairyProduct" Collapsed="true">
+    <Position X="64.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQzEhoBAJWUAkFMQiFqecgAiEgDwFICIQUByC4Xk0Cs=</HashCode>
+      <FileName>Frontend\UserControls\DairyProduct\DairyProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Frontend.UserControls.Fruit.Fruit" Collapsed="true">
+    <Position X="62.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgwE6ZAANGggkFMZBFqAYwAiEAAAFEABgdAwk4XsQCQ=</HashCode>
+      <FileName>Frontend\UserControls\Fruit\Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Frontend.Usre.Meat" Collapsed="true">
+    <Position X="64.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABxEgAKAJGAAkFc0ADqBQgECORKElAAEAcGyBZTtSCA=</HashCode>
+      <FileName>Frontend\UserControls\meats\meat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Frontend.UserControls.Vegetable.Vegetable" Collapsed="true">
+    <Position X="62.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIyEjKCBJGIAkVdYEFKYQmAC0ACSFAAAKdgxAYXuQDA=</HashCode>
+      <FileName>Frontend\UserControls\Vegetable\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Properties.Resources" Collapsed="true">
+    <Position X="66.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAFECgAAQBAAoBkigIOYAAUACAkgEQAoABAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refrigerator_FinalProj.Properties.Settings" Collapsed="true">
+    <Position X="59.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Refrigerator_FinalProj.Backend.Enums.eBeverage" Collapsed="true">
+    <Position X="59.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAggAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Enums\BeverageType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Refrigerator_FinalProj.Backend.Enums.eCheese" Collapsed="true">
+    <Position X="61" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAGAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Backend\Enums\CheeseType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Refrigerator_FinalProj.Backend.Enums.eColors" Collapsed="true">
+    <Position X="62.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAhAAAgAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Backend\Enums\Colors.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Refrigerator_FinalProj.Backend.Enums.eFruitType" Collapsed="true">
+    <Position X="64.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAABABAgAAAAAAAAAAAAAAAAEQAAAAAAA=</HashCode>
+      <FileName>Backend\Enums\FruitType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Refrigerator_FinalProj.Backend.Enums.eMeatType" Collapsed="true">
+    <Position X="66.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgIAAAAAAIAAAAGAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Enums\MeatType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Refrigerator_FinalProj.Backend.Enums.eVegetableType" Collapsed="true">
+    <Position X="59.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAgAAAAAAAAAAAAAAAAgABAIAAEA=</HashCode>
+      <FileName>Backend\Enums\VegetableType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Refrigerator_FinalProj.Backend.Enums.eVitamins" Collapsed="true">
+    <Position X="61" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAApsEAAAA=</HashCode>
+      <FileName>Backend\Enums\Vitamins.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

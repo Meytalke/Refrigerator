@@ -1,0 +1,144 @@
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe.config
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.pdb
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.AssemblyReference.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Properties.Resources.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.GenerateResource.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.CoreCompileInputs.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.exe
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.pdb
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.RefrigeratorDetails.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.fRefrigerator.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.Usre.Meat.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Base.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Vegetable.AddTomato.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Beverage.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.DairyProduct.DairyProduct.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Fruit.Fruit.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\Refrigerator_FinalProj\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Vegetable.Vegetable.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.AssemblyReference.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.fRefrigerator.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Base.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Beverage.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.DairyProduct.DairyProduct.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Fruit.Fruit.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.Usre.Meat.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Vegetable.AddTomato.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Vegetable.Vegetable.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Properties.Resources.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.RefrigeratorDetails.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.GenerateResource.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.CoreCompileInputs.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe.config
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.pdb
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.exe
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\‏‏Refrigerator_FinalProj - עותק\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.pdb
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.AssemblyReference.cache
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.fRefrigerator.resources
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Base.resources
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Beverage.resources
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.DairyProduct.DairyProduct.resources
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Fruit.Fruit.resources
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.Usre.Meat.resources
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Vegetable.AddTomato.resources
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Vegetable.Vegetable.resources
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Properties.Resources.resources
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.RefrigeratorDetails.resources
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.GenerateResource.cache
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.CoreCompileInputs.cache
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.exe
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.pdb
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe.config
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe
+C:\Users\1000271721\source\repos\‏‏Refrigerator\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.pdb
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe.config
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.pdb
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.fRefrigerator.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Base.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Beverage.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.DairyProduct.DairyProduct.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Fruit.Fruit.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.Usre.Meat.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Vegetable.AddTomato.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Vegetable.Vegetable.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Properties.Resources.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.RefrigeratorDetails.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.GenerateResource.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.CoreCompileInputs.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.exe
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.pdb
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.AssemblyReference.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\‏‏Refrigerator\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.AllPro.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.AssemblyReference.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.fRefrigerator.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.AllPro.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Base.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Beverage.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.DairyProduct.DairyProduct.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Fruit.Fruit.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.Usre.Meat.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Vegetable.Vegetable.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Properties.Resources.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.RefrigeratorDetails.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.GenerateResource.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.CoreCompileInputs.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.exe
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.pdb
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe.config
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe
+C:\Users\meyta\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\עבודת הגשה - חילוץ\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.pdb
+C:\temp\testest\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe.config
+C:\temp\testest\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe
+C:\temp\testest\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.pdb
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.AssemblyReference.cache
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.fRefrigerator.resources
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.AllPro.resources
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Base.resources
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Beverage.resources
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.DairyProduct.DairyProduct.resources
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Fruit.Fruit.resources
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.Usre.Meat.resources
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Vegetable.Vegetable.resources
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Properties.Resources.resources
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.RefrigeratorDetails.resources
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.GenerateResource.cache
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.CoreCompileInputs.cache
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.exe
+C:\temp\testest\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.pdb
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe.config
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.pdb
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.AssemblyReference.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.fRefrigerator.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Base.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Beverage.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.DairyProduct.DairyProduct.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Fruit.Fruit.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.Usre.Meat.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Vegetable.Vegetable.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Properties.Resources.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.RefrigeratorDetails.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.GenerateResource.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.CoreCompileInputs.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.exe
+C:\Users\meyta\OneDrive\שולחן העבודה\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.pdb
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe.config
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.exe
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\bin\Debug\Refrigerator_FinalProj.pdb
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.AssemblyReference.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.fRefrigerator.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Base.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Beverage.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.DairyProduct.DairyProduct.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Fruit.Fruit.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.Usre.Meat.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Frontend.UserControls.Vegetable.Vegetable.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.Properties.Resources.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.RefrigeratorDetails.resources
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.GenerateResource.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.csproj.CoreCompileInputs.cache
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.exe
+C:\Users\meyta\OneDrive\שולחן העבודה\c#Finalll\Refrigerator_FinalProj\obj\Debug\Refrigerator_FinalProj.pdb
